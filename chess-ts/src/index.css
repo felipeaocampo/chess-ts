@@ -6,6 +6,7 @@
 
 html {
   font-size: 62.5%;
+  background-color: green;
 }
 
 body {
@@ -16,6 +17,8 @@ body {
 }
 
 #root {
-  width: 100vw;
-  height: 100vh;
+  width: 800px;
+  height: 800px;
+  margin: 0 auto;
+  padding-top: 4rem;
 }
